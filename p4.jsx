@@ -1,8 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './styles/main.css';
-
-import Header from './components/header/Header';
+import Header from './components/header/header';
 import Example from './components/example/Example';
 import States from './components/states/States';
 
@@ -27,6 +26,7 @@ class Toggle extends React.Component {
     render() {
         return (
             <div className="container">
+                <Header />
                 <button onClick={this.handleClick}>
                     {this.state.isToggleOn ? 'Switch to States' : 'Switch to Example'}
                 </button>
