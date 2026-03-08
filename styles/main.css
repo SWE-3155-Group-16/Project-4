@@ -10,3 +10,20 @@
   margin-left: auto;
   margin-right: auto;
 }
+.toolbar {
+  margin: 10px 0;
+}
+
+.navButton {
+  display: inline-block;
+  padding: 10px 15px;
+  margin-right: 10px;
+  background-color: #1976d2;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.navButton:hover {
+  background-color: #125ca1;
+}
