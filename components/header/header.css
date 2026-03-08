@@ -1,0 +1,20 @@
+.header {
+  background: linear-gradient(135deg, #3a7bd5, #00d2ff); /* gradient background */
+  padding: 20px;
+  text-align: center;
+  color: white;
+  font-family: Arial, sans-serif;
+  border-bottom: 3px solid white;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 28px;
+  letter-spacing: 1px;
+}
+
+.header p {
+  margin: 5px 0 0 0;
+  font-style: italic;
+}
