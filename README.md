@@ -6,3 +6,7 @@ As a user of the web application, I want to navigate between the Example view an
 Harrison's User Story
 
 As a user who is planning on travelling, I want to filter U.S. states by name and see a personalized header, so that I can quickly plan trips with a view that feels uniquely mine.
+
+Jeremiah's User Story 
+
+A user who wants to use both functionalities of the website would want to know exactly what view they are switching to. The button to switch views' text will change depending on the current view the user is on when on states view the button reads "switch to example" and when on the states view the button reads "switch to example"
